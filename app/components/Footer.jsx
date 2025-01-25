@@ -5,7 +5,12 @@ const Footer = () => {
   return (
     <div className="flex justify-between bg-blue-800 w-full py-5 px-10">
       <div>
-        <Image src="/images/logo.png" width={150} height={150} alt="image" />
+        <Image
+          src="/images/Logo.png"
+          width={150}
+          height={150}
+          alt="/images/Logo.png"
+        />
       </div>
       <div className="flex flex-col justify-evenly">
         <div>The Presidency</div>
