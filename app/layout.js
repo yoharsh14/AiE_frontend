@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
           <NavBar />
         </div>
         <div className="flex-grow">{children}</div>
-        <div className="">
+        <div>
           <Footer />
         </div>
       </body>

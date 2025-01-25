@@ -9,7 +9,11 @@ const NavBar = () => {
       <div className="flex justify-start gap-72 items-center p-2 bg-navBar opacity-100 text-white ">
         <div className="text-left">
           <div className="flex items-center">
-            <img src="/images/logo.png" alt="" className="h-16 w-16" />
+            <img
+              src="/images/Logo.png"
+              alt="/images/Logo.png"
+              className="h-16 w-16"
+            />
             Ambedkar in Europe
           </div>
         </div>
