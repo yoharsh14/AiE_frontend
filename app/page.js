@@ -5,7 +5,6 @@ export default function Home() {
   return (
     <div>
       <Slider />
-      dsfsdfdsfsdf
       <div className="bg-gray-100 min-h-screen py-10 px-4 sm:px-10">
         <div className="max-w-4xl mx-auto bg-white rounded-lg shadow-lg p-6 sm:p-10">
           {/* Page Title */}
