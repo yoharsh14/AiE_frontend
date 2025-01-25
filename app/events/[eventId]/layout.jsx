@@ -1,7 +1,7 @@
 import React from "react";
-
-const layout = () => {
-  return <div>layout</div>;
+import { COMMON_PADDING } from "@/app/utils/constants";
+const layout = ({ children }) => {
+  return <div className={`${COMMON_PADDING}`}>{children}</div>;
 };
 
 export default layout;

@@ -5,7 +5,7 @@ import { CiSearch } from "react-icons/ci";
 const NavBar = () => {
   const router = useRouter();
   return (
-    <div>
+    <div className="">
       <div className="flex justify-start gap-72 items-center p-2 bg-navBar opacity-100 text-white ">
         <div className="text-left">
           <div className="flex items-center">
