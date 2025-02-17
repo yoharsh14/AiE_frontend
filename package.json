@@ -9,13 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@firebase/firestore": "^4.7.6",
+    "dom-parser": "^1.1.5",
+    "firebase": "^11.2.0",
     "firebase-admin": "^13.0.2",
+    "html-react-parser": "^5.2.2",
     "lucide-react": "^0.473.0",
     "next": "15.1.4",
+    "quill": "^2.0.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.4.0",
-    "swiper": "^11.2.1"
+    "react-quill": "^2.0.0",
+    "react-quilljs": "^2.0.5",
+    "swiper": "^11.2.1",
+    "zod": "^3.24.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
